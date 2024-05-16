@@ -18,7 +18,7 @@ This project aims to predict the likelihood of a stroke using various machine le
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/stroke-prediction.git
+    git clone https://github.com/Elilora/stroke-prediction.git
     cd stroke-prediction
     ```
 
